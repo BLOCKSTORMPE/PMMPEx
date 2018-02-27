@@ -1,0 +1,5 @@
+name: TestPlugin
+author: BLOCKSTORM_
+version: 0.1-PreAlpha
+api: [3.0.0-Alpha10, 3.0.0-Alpha11]
+main: test\Main
